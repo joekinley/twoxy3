@@ -1,0 +1,4 @@
+#!/bin/bash
+clear
+g++ -o discovery main.cpp -lSDL -lSDL_image -lSDL_ttf
+
